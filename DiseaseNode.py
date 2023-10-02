@@ -1,6 +1,7 @@
 import wiki
 import pickle
 import json
+import numpy
 
 
 flist_diseaseNames = open("list_diseaseNames.pkl",'r')
