@@ -1,0 +1,12 @@
+diff --git a/DiseaseNode.py b/DiseaseNode.py
+index 52e3c8d..edcf6ea 100644
+--- a/DiseaseNode.py
++++ b/DiseaseNode.py
+@@ -4,7 +4,6 @@ import json
+ import numpy
+ import os
+ 
+-
+ flist_diseaseNames = open("list_diseaseNames.pkl",'r')
+ list_diseaseNames = pickle.load(flist_diseaseNames)
+ 

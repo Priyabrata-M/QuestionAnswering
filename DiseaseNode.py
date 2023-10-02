@@ -4,6 +4,7 @@ import json
 import numpy
 import os
 
+
 flist_diseaseNames = open("list_diseaseNames.pkl",'r')
 list_diseaseNames = pickle.load(flist_diseaseNames)
 
